@@ -1,0 +1,1 @@
+class NoteService : Crud<Note>()
